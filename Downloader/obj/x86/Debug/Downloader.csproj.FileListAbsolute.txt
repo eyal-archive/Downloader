@@ -1,0 +1,9 @@
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\bin\Debug\Downloader.exe
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\bin\Debug\Downloader.pdb
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\obj\x86\Debug\Downloader.csprojResolveAssemblyReference.cache
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\obj\x86\Debug\Downloader.DownloaderForm.resources
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\obj\x86\Debug\Downloader.Properties.Resources.resources
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\obj\x86\Debug\Downloader.csproj.GenerateResource.Cache
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\obj\x86\Debug\Downloader.exe
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\obj\x86\Debug\Downloader.pdb
+d:\Projects\Code\Examples\CSharp\WinForms\Threading.Downloader\Downloader\bin\Debug\Downloader.exe.config

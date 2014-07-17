@@ -1,0 +1,122 @@
+<stylecopresultscache>
+  <version>11</version>
+  <project key="-882667805">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="DownloaderEventArgs.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/30/2012 00:17:58</timestamp>
+    <milliseconds>622</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Downloader.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/30/2012 00:36:07</timestamp>
+    <milliseconds>181</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Program.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/30/2012 00:37:42</timestamp>
+    <milliseconds>988</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/29/2012 23:59:07</timestamp>
+    <milliseconds>991</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Resources.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/29/2012 23:57:35</timestamp>
+    <milliseconds>227</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="VersionInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/29/2012 20:44:15</timestamp>
+    <milliseconds>460</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AppMain.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/30/2012 00:14:24</timestamp>
+    <milliseconds>210</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Settings.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/29/2012 23:57:35</timestamp>
+    <milliseconds>377</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AppMain.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/02/2012 16:39:20</timestamp>
+      <milliseconds>152</milliseconds>
+    </settings>
+    <timestamp>04/30/2012 00:35:48</timestamp>
+    <milliseconds>821</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="PartialElementsMustBeDocumented" ruleCheckId="SA1601">
+        <context>The partial class element must have a documentation header containing either a summary tag or a content tag.</context>
+        <line>8</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>
