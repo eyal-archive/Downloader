@@ -6,6 +6,7 @@ Demonstrates how to use the BackgroundWorker.
 ### Application Type ###
 
 * WinForms application.
+* Threading
 
 ### Dependencies ###
 
